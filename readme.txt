@@ -4,7 +4,7 @@ Donate link:
 Tags: eliteprospects, hockey, sports, player, profile, tooltip
 Requires at least: 2.6
 Tested up to: 3.9.1
-Stable tag: 0.1
+Stable tag: 0.1 
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
